@@ -1,0 +1,50 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  background: url(miller.jpg) no-repeat top center/cover;
+  padding: 5vw;
+  color: white;
+}
+
+body.mirror {
+  -webkit-transform: scaleX(-1);
+          transform: scaleX(-1);
+  -webkit-filter: FlipH;
+          filter: FlipH;
+}
+
+body a {
+  color: white;
+  padding: 1em;
+  border: 1px solid white;
+  margin: 1em 0;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+body a:hover {
+  background: white;
+  color: black;
+}
+
+body img {
+  max-width: 100%;
+  height: 70px;
+}
+
+body .float {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  font-size: 0.6em;
+}
+/*# sourceMappingURL=style.css.map */
