@@ -1,2 +1,2 @@
 # Samuel Miller Website Application
-samuelmiller.netlify.app
+http://samuelmiller.netlify.app
