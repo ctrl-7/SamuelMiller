@@ -1,2 +1,2 @@
-# SamuelMiller
-### samuelmiller.netlify.app
+# Samuel Miller Website Application
+samuelmiller.netlify.app
