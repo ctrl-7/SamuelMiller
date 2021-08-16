@@ -1,2 +1,2 @@
 # Samuel Miller Website Application
-http://samuelmiller.netlify.app
+https://raw.githack.com/pexeixv/SamuelMiller/main/index.html
